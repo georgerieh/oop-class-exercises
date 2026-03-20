@@ -8,3 +8,6 @@ consider file-homework-2.ipynb a solution for exercise 2
 
 # uml exercise 3
 consider pdf file a solution to the exercise 3
+
+# patterns exercise
+I also did a pattern exercise, but on paper, since we had a solution given after the class
